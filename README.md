@@ -1,15 +1,22 @@
 # Machine-Learning
-Research Docs and Development code for machine learning model
+#### Research Docs and Development code for machine learning model
 
-![Img1](machineLearning/assets/3d_model.gif)
 
-![Img2](machineLearning/assets/confusion_matrix.png)
+#### Output:
 
-![Img3](machineLearning/assets/PCA.png)
 
-![Img4](machineLearning/assets/results.png)
+![Img5](https://github.com/SkiCad/Machine-Learning/blob/main/assets/results.png)
 
-![Img5](machineLearning/assets/Train_loss.png)
+
+![Img1](https://github.com/SkiCad/Machine-Learning/blob/main/assets/3d_model.gif)
+
+![Img2](https://github.com/SkiCad/Machine-Learning/blob/main/assets/PCA.png)
+
+![Img3](https://github.com/SkiCad/Machine-Learning/blob/main/assets/Train_loss.png)
+
+![Img4](https://github.com/SkiCad/Machine-Learning/blob/main/assets/confusion_matrix.png)
+
+
 
 
 
